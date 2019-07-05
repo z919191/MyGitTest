@@ -4,6 +4,7 @@ public class B1_ScanningString {
 
 	public static void main(String[] args) {
 		String source = "1 3 5";
+		// 주석 추가
 		Scanner sc = new Scanner(source);
 		
 		int num1 = sc.nextInt();
