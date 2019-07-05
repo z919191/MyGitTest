@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class B1_ScanningString {
 
 	public static void main(String[] args) {
-		String source = "1 3 5 7 9 11 15";
+		String source = "1 3 5 7 9 11 15 17";
 		// 주석 추가
 		Scanner sc = new Scanner(source);
 		
